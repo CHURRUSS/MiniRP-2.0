@@ -1,0 +1,98 @@
+{
+  "author": "Anokolisa",
+  "source": "World Build - Character Pack - 0.2.zip",
+  "frameWidth": 40,
+  "frameHeight": 76,
+  "variants": [
+    {
+      "name": "Jogador",
+      "shirt": "#386e89",
+      "pants": "#343f4e",
+      "shoe": "#252e34",
+      "hair": "#283337",
+      "skin": 0
+    },
+    {
+      "name": "Morador 1",
+      "shirt": "#ae5545",
+      "pants": "#51574f",
+      "shoe": "#29363a",
+      "hair": "#423027",
+      "skin": 1
+    },
+    {
+      "name": "Moradora 2",
+      "shirt": "#788d69",
+      "pants": "#424451",
+      "shoe": "#232a32",
+      "hair": "#322b33",
+      "skin": 2
+    },
+    {
+      "name": "Morador 3",
+      "shirt": "#ad966e",
+      "pants": "#4d6072",
+      "shoe": "#2b353a",
+      "hair": "#684335",
+      "skin": 0
+    },
+    {
+      "name": "Moradora 4",
+      "shirt": "#775c86",
+      "pants": "#3d4851",
+      "shoe": "#252b34",
+      "hair": "#2e2927",
+      "skin": 3
+    },
+    {
+      "name": "Trabalhador",
+      "shirt": "#386672",
+      "pants": "#7c755d",
+      "shoe": "#303136",
+      "hair": "#4b3528",
+      "skin": 1
+    },
+    {
+      "name": "Morador 6",
+      "shirt": "#c0a677",
+      "pants": "#4a504f",
+      "shoe": "#30363a",
+      "hair": "#2c2b26",
+      "skin": 2
+    },
+    {
+      "name": "Moradora 7",
+      "shirt": "#577f74",
+      "pants": "#7e554c",
+      "shoe": "#322c2c",
+      "hair": "#654632",
+      "skin": 0
+    },
+    {
+      "name": "Morador 8",
+      "shirt": "#8a5054",
+      "pants": "#384b63",
+      "shoe": "#30343e",
+      "hair": "#393025",
+      "skin": 3
+    },
+    {
+      "name": "Moradora 9",
+      "shirt": "#467077",
+      "pants": "#6b5c55",
+      "shoe": "#2f3338",
+      "hair": "#30312c",
+      "skin": 1
+    }
+  ],
+  "directions": [
+    "down",
+    "side",
+    "up"
+  ],
+  "animations": {
+    "idle": 4,
+    "walk": 6,
+    "run": 6
+  }
+}
