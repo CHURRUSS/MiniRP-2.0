@@ -1,0 +1,394 @@
+{
+  "street": {
+    "file": "assets/street.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/city_asphalt.png"
+  },
+  "sidewalk": {
+    "file": "assets/sidewalk.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/sidewalk_slabs.png"
+  },
+  "grass": {
+    "file": "assets/grass.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/park_grass.png"
+  },
+  "pavers": {
+    "file": "assets/pavers.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/brick_pavers.png"
+  },
+  "plaza": {
+    "file": "assets/plaza.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/plaza_squares.png"
+  },
+  "gravel": {
+    "file": "assets/gravel.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/park_gravel_path.png"
+  },
+  "lane": {
+    "file": "assets/lane.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/lane_dashes.png"
+  },
+  "zebra": {
+    "file": "assets/zebra.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/zebra_crossing.png"
+  },
+  "curb": {
+    "file": "assets/curb.png",
+    "width": 32,
+    "height": 32,
+    "source": "park",
+    "original": "tiles/floors/curb_edge.png"
+  },
+  "building1": {
+    "file": "assets/building1.png",
+    "width": 98,
+    "height": 162,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building1.png"
+  },
+  "building2": {
+    "file": "assets/building2.png",
+    "width": 161,
+    "height": 176,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building2.png"
+  },
+  "building3": {
+    "file": "assets/building3.png",
+    "width": 102,
+    "height": 163,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building3.png"
+  },
+  "building4": {
+    "file": "assets/building4.png",
+    "width": 170,
+    "height": 161,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building4.png"
+  },
+  "building5": {
+    "file": "assets/building5.png",
+    "width": 243,
+    "height": 146,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building5.png"
+  },
+  "building6": {
+    "file": "assets/building6.png",
+    "width": 358,
+    "height": 211,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building6.png"
+  },
+  "building7": {
+    "file": "assets/building7.png",
+    "width": 100,
+    "height": 192,
+    "source": "ranitaya",
+    "original": "Buildings/Pngs/Building7.png"
+  },
+  "cafe": {
+    "file": "assets/cafe.png",
+    "width": 87,
+    "height": 69,
+    "source": "nasha",
+    "original": "sprites/shop_fronts/cafe_front_with_a_mint_awning_and_a_coffee_cup_sign.png"
+  },
+  "bakery": {
+    "file": "assets/bakery.png",
+    "width": 89,
+    "height": 67,
+    "source": "nasha",
+    "original": "sprites/shop_fronts/bakery_front_with_a_tan_striped_awning_and_bread_in_the_window.png"
+  },
+  "barber": {
+    "file": "assets/barber.png",
+    "width": 87,
+    "height": 69,
+    "source": "nasha",
+    "original": "sprites/shop_fronts/barbershop_front_with_a_red_and_white_striped_barber_pole.png"
+  },
+  "suv": {
+    "file": "assets/suv.png",
+    "width": 88,
+    "height": 73,
+    "source": "nasha",
+    "original": "sprites/vehicles/dark_green_suv.png"
+  },
+  "foodtruck": {
+    "file": "assets/foodtruck.png",
+    "width": 93,
+    "height": 82,
+    "source": "nasha",
+    "original": "sprites/vehicles/coral_food_truck_with_an_open_serving_hatch.png"
+  },
+  "motorcycle": {
+    "file": "assets/motorcycle.png",
+    "width": 75,
+    "height": 62,
+    "source": "nasha",
+    "original": "sprites/vehicles/black_motorbike.png"
+  },
+  "bike": {
+    "file": "assets/bike.png",
+    "width": 70,
+    "height": 58,
+    "source": "nasha",
+    "original": "sprites/vehicles/city_bike_with_a_front_basket.png"
+  },
+  "barista": {
+    "file": "assets/barista.png",
+    "width": 38,
+    "height": 80,
+    "source": "nasha",
+    "original": "sprites/city_workers/barista_in_a_brown_apron_holding_a_coffee_cup.png"
+  },
+  "baker": {
+    "file": "assets/baker.png",
+    "width": 42,
+    "height": 80,
+    "source": "nasha",
+    "original": "sprites/city_workers/baker_in_white_holding_a_tray_of_bread_rolls.png"
+  },
+  "citizen": {
+    "file": "assets/citizen.png",
+    "width": 38,
+    "height": 80,
+    "source": "nasha",
+    "original": "sprites/city_people/father_carrying_a_toddler_on_his_shoulders.png"
+  },
+  "dogwalker": {
+    "file": "assets/dogwalker.png",
+    "width": 66,
+    "height": 80,
+    "source": "nasha",
+    "original": "sprites/city_people/elderly_woman_in_a_cardigan_with_a_little_white_dog_on_a_leash.png"
+  },
+  "flowerlamp": {
+    "file": "assets/flowerlamp.png",
+    "width": 49,
+    "height": 84,
+    "source": "nasha",
+    "original": "sprites/lamps_signs_and_trees/lamp_post_with_hanging_flower_baskets.png"
+  },
+  "busstop": {
+    "file": "assets/busstop.png",
+    "width": 22,
+    "height": 81,
+    "source": "nasha",
+    "original": "sprites/lamps_signs_and_trees/bus_stop_pole_with_a_plain_blue_sign_panel.png"
+  },
+  "player": {
+    "file": "assets/player.png",
+    "width": 33,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/jogger_in_a_teal_running_vest_and_black_leggings.png"
+  },
+  "runner": {
+    "file": "assets/runner.png",
+    "width": 34,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/bearded_runner_in_a_lime_green_shirt_and_grey_shorts.png"
+  },
+  "photographer": {
+    "file": "assets/photographer.png",
+    "width": 38,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/photographer_with_a_big_camera_on_a_strap.png"
+  },
+  "visitor": {
+    "file": "assets/visitor.png",
+    "width": 38,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/teenage_girl_in_roller_skates_and_knee_pads.png"
+  },
+  "ranger": {
+    "file": "assets/ranger.png",
+    "width": 33,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/park_ranger_in_an_olive_uniform_holding_a_clipboard.png"
+  },
+  "pug": {
+    "file": "assets/pug.png",
+    "width": 55,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/girl_in_a_yellow_hoodie_with_a_black_pug_on_a_leash.png"
+  },
+  "father": {
+    "file": "assets/father.png",
+    "width": 60,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/father_in_shorts_holding_the_hand_of_a_toddler_in_a_sun_hat.png"
+  },
+  "cyclist": {
+    "file": "assets/cyclist.png",
+    "width": 56,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/park_visitors/cyclist_in_a_blue_jersey_standing_beside_a_red_road_bike.png"
+  },
+  "tree1": {
+    "file": "assets/tree1.png",
+    "width": 54,
+    "height": 80,
+    "source": "park",
+    "original": "sprites/trees_lamps_and_tall_things/big_oak_tree_with_a_wide_crown.png"
+  },
+  "tree2": {
+    "file": "assets/tree2.png",
+    "width": 54,
+    "height": 88,
+    "source": "park",
+    "original": "sprites/trees_lamps_and_tall_things/sycamore_tree_with_a_thick_trunk.png"
+  },
+  "tree3": {
+    "file": "assets/tree3.png",
+    "width": 50,
+    "height": 82,
+    "source": "park",
+    "original": "sprites/trees_lamps_and_tall_things/eucalyptus_tree_with_blue_grey_leaves.png"
+  },
+  "treeyellow": {
+    "file": "assets/treeyellow.png",
+    "width": 46,
+    "height": 79,
+    "source": "park",
+    "original": "sprites/trees_lamps_and_tall_things/ginkgo_tree_with_yellow_autumn_leaves.png"
+  },
+  "lamppark": {
+    "file": "assets/lamppark.png",
+    "width": 21,
+    "height": 85,
+    "source": "park",
+    "original": "sprites/trees_lamps_and_tall_things/green_iron_park_lamp_with_a_lantern_top.png"
+  },
+  "bench": {
+    "file": "assets/bench.png",
+    "width": 63,
+    "height": 37,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/curved_park_bench_with_armrests.png"
+  },
+  "longbench": {
+    "file": "assets/longbench.png",
+    "width": 65,
+    "height": 35,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/double_sided_park_bench.png"
+  },
+  "fountain": {
+    "file": "assets/fountain.png",
+    "width": 65,
+    "height": 53,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/tiered_stone_fountain_with_a_wide_basin.png"
+  },
+  "popcorn": {
+    "file": "assets/popcorn.png",
+    "width": 42,
+    "height": 55,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/popcorn_cart_with_a_red_and_white_canopy.png"
+  },
+  "kiosk": {
+    "file": "assets/kiosk.png",
+    "width": 58,
+    "height": 56,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/hot_dog_kiosk_with_a_yellow_roof.png"
+  },
+  "flowers": {
+    "file": "assets/flowers.png",
+    "width": 65,
+    "height": 30,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/long_flower_bed_with_tulips_and_daffodils.png"
+  },
+  "rose": {
+    "file": "assets/rose.png",
+    "width": 73,
+    "height": 53,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/pergola_with_climbing_roses_and_a_bench.png"
+  },
+  "trash": {
+    "file": "assets/trash.png",
+    "width": 35,
+    "height": 51,
+    "source": "park",
+    "original": "sprites/park_furniture_and_plants/black_iron_litter_bin_with_a_ribbed_body.png"
+  },
+  "bush": {
+    "file": "assets/bush.png",
+    "width": 57,
+    "height": 53,
+    "source": "park",
+    "original": "sprites/park_furniture_and_plants/camellia_bush_with_red_flowers.png"
+  },
+  "hedge": {
+    "file": "assets/hedge.png",
+    "width": 68,
+    "height": 37,
+    "source": "park",
+    "original": "sprites/carts_benches_and_playground/low_clipped_box_hedge_in_a_curve.png"
+  },
+  "ranstreetlamp": {
+    "file": "assets/ranstreetlamp.png",
+    "width": 32,
+    "height": 57,
+    "source": "ranitaya",
+    "original": "Assets/Light Pole.png"
+  },
+  "ranbush": {
+    "file": "assets/ranbush.png",
+    "width": 32,
+    "height": 57,
+    "source": "ranitaya",
+    "original": "Assets/Bush1.png"
+  },
+  "ranbin": {
+    "file": "assets/ranbin.png",
+    "width": 32,
+    "height": 57,
+    "source": "ranitaya",
+    "original": "Assets/Closed Trashbin.png"
+  },
+  "ransign": {
+    "file": "assets/ransign.png",
+    "width": 47,
+    "height": 25,
+    "source": "ranitaya",
+    "original": "Assets/Sign1.png"
+  }
+}
